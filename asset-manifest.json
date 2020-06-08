@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/latina/static/css/main.25051f32.chunk.css",
-    "main.js": "/latina/static/js/main.0e664ab5.chunk.js",
-    "main.js.map": "/latina/static/js/main.0e664ab5.chunk.js.map",
+    "main.js": "/latina/static/js/main.7ebdd6ad.chunk.js",
+    "main.js.map": "/latina/static/js/main.7ebdd6ad.chunk.js.map",
     "runtime-main.js": "/latina/static/js/runtime-main.1f4ca2b2.js",
     "runtime-main.js.map": "/latina/static/js/runtime-main.1f4ca2b2.js.map",
     "static/js/2.6e24f070.chunk.js": "/latina/static/js/2.6e24f070.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.76ba3496.chunk.js": "/latina/static/js/3.76ba3496.chunk.js",
     "static/js/3.76ba3496.chunk.js.map": "/latina/static/js/3.76ba3496.chunk.js.map",
     "index.html": "/latina/index.html",
-    "precache-manifest.ab81a9f34348481215fdf2ba17d1fbd0.js": "/latina/precache-manifest.ab81a9f34348481215fdf2ba17d1fbd0.js",
+    "precache-manifest.836ccf01adf4b6cb6dca6790e4649c78.js": "/latina/precache-manifest.836ccf01adf4b6cb6dca6790e4649c78.js",
     "service-worker.js": "/latina/service-worker.js",
     "static/css/main.25051f32.chunk.css.map": "/latina/static/css/main.25051f32.chunk.css.map",
     "static/js/2.6e24f070.chunk.js.LICENSE.txt": "/latina/static/js/2.6e24f070.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.1f4ca2b2.js",
     "static/js/2.6e24f070.chunk.js",
     "static/css/main.25051f32.chunk.css",
-    "static/js/main.0e664ab5.chunk.js"
+    "static/js/main.7ebdd6ad.chunk.js"
   ]
 }

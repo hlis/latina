@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "287816887ee27ddae7f9e71a5669fd8c",
+    "revision": "49b9022391a57c4bbf93aaf9e6a7a56e",
     "url": "/latina/index.html"
   },
   {
-    "revision": "a1334a9d6c21c246cb81",
+    "revision": "cc4e183edfb5a3adf66e",
     "url": "/latina/static/css/main.25051f32.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/latina/static/js/3.76ba3496.chunk.js"
   },
   {
-    "revision": "a1334a9d6c21c246cb81",
-    "url": "/latina/static/js/main.0e664ab5.chunk.js"
+    "revision": "cc4e183edfb5a3adf66e",
+    "url": "/latina/static/js/main.7ebdd6ad.chunk.js"
   },
   {
     "revision": "98a6aaeedce47cb46cac",
